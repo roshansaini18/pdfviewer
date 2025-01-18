@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdfviewer/static/css/main.3b973dca.css",
+    "main.js": "/pdfviewer/static/js/main.a771d6ae.js",
+    "index.html": "/pdfviewer/index.html",
+    "main.3b973dca.css.map": "/pdfviewer/static/css/main.3b973dca.css.map",
+    "main.a771d6ae.js.map": "/pdfviewer/static/js/main.a771d6ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b973dca.css",
+    "static/js/main.a771d6ae.js"
+  ]
+}
