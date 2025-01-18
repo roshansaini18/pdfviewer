@@ -1,0 +1,10 @@
+.header{
+  display: flex;
+  background-color: cadetblue;
+  height: 100px;
+  justify-content: space-evenly;
+  padding-top: 40px;
+}
+.search{
+  background-color: transparent;
+}
